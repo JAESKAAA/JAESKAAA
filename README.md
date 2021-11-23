@@ -5,7 +5,7 @@
 <br><br><br>
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=JAESKAAA&show_icons=true&theme=buefy" width=40% />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAESKAAA&layout=compact" width=40%/>
+ <img src="https://github-readme-stats.vercel.app/api?username=JAESKAAA&show_icons=true&theme=buefy" width=45% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAESKAAA&layout=compact" width=45%/>
 
 
