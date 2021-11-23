@@ -8,7 +8,8 @@
  <div align="center">
   <br>
   <br>
-  💪SKills
+  💪Skills
+  <br>
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
@@ -20,6 +21,7 @@
 <br>
 <br>
   ✍Ref
+  <br>
   <br>
  <a href="https://cut-silicon-1bf.notion.site/Jaeskaaa-eb13e5073e3841f29c63feeed5629543" target="_blank"><img src="https://img.shields.io/badge/Notion-DC382D?style=flat-square&logo=Notion&logoColor=white" width = 80px height = 26px/></a> &nbsp;
   <br><br><br>
