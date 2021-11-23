@@ -7,8 +7,8 @@
 * * *
  <div align="center">
   <br>
-  📢 Notion 
- <a href="https://cut-silicon-1bf.notion.site/Jaeskaaa-eb13e5073e3841f29c63feeed5629543" target="_blank"><img src="https://img.shields.io/badge/Notion-DC382D?style=flat-square&logo=Notion&logoColor=white" width = 80px height = 30px/></a> &nbsp;
+  📢 Notion <br>
+ <a href="https://cut-silicon-1bf.notion.site/Jaeskaaa-eb13e5073e3841f29c63feeed5629543" target="_blank"><img src="https://img.shields.io/badge/Notion-DC382D?style=flat-square&logo=Notion&logoColor=white" width = 80px height = 20px/></a> &nbsp;
   <br><br><br>
  <img src="https://github-readme-stats.vercel.app/api?username=JAESKAAA&show_icons=true&theme=buefy" width=45% />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAESKAAA&layout=compact" width=45%/>
