@@ -8,7 +8,7 @@
  <div align="center">
   <br> 
   <br>
-  💪 <b>Skills 💪
+  💪 <b>Skills
   <br>
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
